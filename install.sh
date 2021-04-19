@@ -18,4 +18,5 @@ Type=Application
 Name=Scratch packager
 Exec=scratch-packager
 Icon=scratch-packager
-Description=Scratch and html packager for armhf raspberry pi">~/.local/share/applications/scratch-packager.desktop
+Description=Scratch and html packager for armhf raspberry pi
+Categories=Tools">~/.local/share/applications/scratch-packager.desktop
